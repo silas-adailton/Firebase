@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="Salvar">Salvar</string>
+    <string name="listar">Listar</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_hint_password">Senha</string>
+    <string name="acessar">Acessar</string>
+</resources>

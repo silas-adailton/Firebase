@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "277670679284",
+    "firebase_url": "https://progeto1-c6687.firebaseio.com",
+    "project_id": "progeto1-c6687",
+    "storage_bucket": "progeto1-c6687.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277670679284:android:b9df083203e9b05b",
+        "android_client_info": {
+          "package_name": "com.example.autodoc.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277670679284-tkr9ajnk98f12hbs97mpik61d1pjip7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQheDtPipR5lo4K3vrzQ2by_PEBn1JY5c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
